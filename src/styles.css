@@ -1,0 +1,20 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #fce7f3;
+}
+.footer {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  background-color: #f472b6;
+  padding: 2rem 0rem;
+  border-top-right-radius: 1rem;
+  bottom: 0;
+  width: 100%;
+}
